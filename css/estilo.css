@@ -41,7 +41,28 @@ li:hover{
 }
 
 #pie{
+  margin-top: 100px;
   text-align: center;
   background-color: #1F1F1F;
   padding: 30px;
 }
+
+#seccion{
+  position: absolute;
+  float: left;
+  background-color: #E65616;
+  padding: 10px;
+  color: white;
+  width: 45%;
+  margin: 10px;
+}
+
+#columna {
+  position: relative;
+  float: right;
+  width: 26%;
+  background-color: #E65616;
+  padding: 30px;
+  margin: 10px;
+}
+
