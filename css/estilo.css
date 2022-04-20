@@ -32,9 +32,16 @@ background-color: whitesmoke;
   list-style: none;
   font-size: 20px;
   padding-left: 10px;
+  padding-right: 10px;
 
 }
 li:hover{
   background-color: #E65616;
   color: white;
+}
+
+#pie{
+  text-align: center;
+  background-color: #1F1F1F;
+  padding: 30px;
 }
