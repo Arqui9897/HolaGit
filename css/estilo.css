@@ -8,3 +8,69 @@ h1 {
 h2 {
   font: bold 14px verdana, sans-serif;
 }
+
+p{
+  font: bold 14px verdana, sans-serif; 
+}
+body {
+  background-color: #383838;
+  width: 90%;
+  margin: auto;
+}
+
+#agrupar{
+  border: 3px solid #E65616;
+}
+
+#cabecera{
+  background-color: #1F1F1F;
+  color: white;
+  padding: 40px;
+}
+
+#menu{
+background-color: whitesmoke;
+}
+#menu li{
+  display: inline;
+  list-style: none;
+  font-size: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font: bold 14px verdana, sans-serif;
+
+}
+li:hover{
+  background-color: #E65616;
+  color: white;
+}
+
+#pie{
+  margin-top: 100px;
+  text-align: center;
+  background-color: #1F1F1F;
+  padding: 30px;
+  font: bold 14px verdana, sans-serif;
+  color: white;
+}
+
+#seccion{
+  position: absolute;
+  float: left;
+  background-color: #E65616;
+  padding: 10px;
+  color: white;
+  width: 45%;
+  margin: 10px;
+  font: bold 14px verdana, sans-serif;
+}
+
+#columna {
+  position: relative;
+  float: right;
+  width: 26%;
+  background-color: #E65616;
+  padding: 30px;
+  margin: 12px;
+}
+
