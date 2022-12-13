@@ -8,3 +8,33 @@ h1 {
 h2 {
   font: bold 14px verdana, sans-serif;
 }
+body {
+  background-color: #383838;
+  width: 90%;
+  margin: auto;
+}
+
+#agrupar{
+  border: 3px solid #E65616;
+}
+
+#cabecera{
+  background-color: #1F1F1F;
+  color: white;
+  padding: 40px;
+}
+
+#menu{
+background-color: whitesmoke;
+}
+#menu li{
+  display: inline;
+  list-style: none;
+  font-size: 20px;
+  padding-left: 10px;
+
+}
+li:hover{
+  background-color: #E65616;
+  color: white;
+}
